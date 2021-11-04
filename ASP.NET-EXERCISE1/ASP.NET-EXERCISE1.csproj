@@ -5,4 +5,13 @@
     <RootNamespace>ASP.NET_EXERCISE1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\NewFolder1\" />
+  </ItemGroup>
+
 </Project>

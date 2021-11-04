@@ -1,0 +1,14 @@
+﻿body {
+    height: 100vh;
+    background-image: url(img/inside_best_buy_store.0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+    background-position: center center;
+}
+
+.border {
+    border-color: white;
+    border-width: 30px;
+}
+
